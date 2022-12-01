@@ -1,0 +1,245 @@
+.body {
+  width: 100vw;
+  overflow: clip;
+}
+
+
+.first {
+  height: 100vh;
+  width: 99vw;
+  background-image: url("../assets/conny-schneider-xuTJZ7uD7PI-unsplash\ 1.png");
+}
+
+.left {
+  align-self: start;
+  height: 100vh;
+  width: 50vw;
+  background-color: rgba(23, 154, 215, 0.7);
+  border-top-right-radius: 250px;
+  border-bottom-right-radius: 250px;
+  display: flex;
+  justify-content: center;
+}
+
+.head {
+  align-self: center;
+  padding-left: 20px;
+}
+
+b {
+  font-weight: bold;
+}
+
+.button {
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  left: 100px;
+  top: 443px;
+  margin-top: 20px;
+
+  background: #8bcdeb;
+  border-radius: 10px;
+  border: none;
+}
+
+.second {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.partners {
+  display: flex;
+}
+
+.paypal {
+  height: 100px;
+  width: 200px;
+  background-image: url("../assets/PayPal-Logo.wine\ 1.png");
+}
+
+.applePay {
+  height: 100px;
+  width: 200px;
+  background-image: url("../assets/Apple_Pay.png");
+}
+
+.zelle {
+  height: 110px;
+  width: 200px;
+  background-image: url("../assets/Zelle_\(payment_service\)-Logo.wine\ 1.png");
+}
+
+.cashapp {
+  height: 100px;
+  width: 200px;
+  background-image: url("../assets/Cash_App-Logo.wine\ 1.png");
+}
+
+.third {
+  background: #d1ebf780;
+  padding: 20px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  overflow: clip;
+}
+
+.thirdList{
+  list-style: circle;
+  line-height: 25px;
+}
+
+.thirdrow {
+  overflow: clip;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-top: 20px;
+    width: 98vw;
+}
+
+.box1 {
+  background-color: #3eacde;
+  width: 300px;
+  height: 320px;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.fourth {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.one {
+  width: 300px;
+  margin-right: 20px;
+  height: 500px;
+  background-size: 300px 500px;
+  background-image: url("../assets/WhatsApp\ Image\ 2022-12-01\ at\ 8.17.12\ AM.jpeg");
+}
+
+ .two {
+    width: 300px;
+    height: 500px;
+    margin-right: 20px;
+    background-size: 300px 500px;
+    background-image: url("../assets/WhatsApp\ Image\ 2022-12-01\ at\ 8.17.12\ AM\ \(1\).jpeg");
+  }
+
+  .three {
+    width: 300px;
+    height: 500px;
+    margin-right: 20px;
+    background-size: 300px 500px;
+    background-image: url("../assets/WhatsApp\ Image\ 2022-12-01\ at\ 8.17.13\ AM.jpeg");
+  }
+
+  .four {
+    width: 300px;
+    height: 500px;
+    margin-right: 20px;
+    background-size: 300px 500px;
+    background-image: url("../assets/WhatsApp\ Image\ 2022-12-01\ at\ 8.17.13\ AM\ \(1\).jpeg");
+  }
+
+  .five {
+    width: 300px;
+    height: 500px;
+    margin-right: 20px;
+    background-size: 300px 500px;
+    background-image: url("../assets/WhatsApp\ Image\ 2022-12-01\ at\ 8.17.13\ AM\ \(2\).jpeg");
+ 
+  }
+
+  .six {
+    width: 300px;
+    height: 500px;
+    margin-right: 20px;
+    background-size: 300px 500px;
+    background-image: url("../assets/WhatsApp\ Image\ 2022-12-01\ at\ 8.17.13\ AM\ \(3\).jpeg");
+  margin-bottom: 30px;
+  }
+
+ 
+
+  .fifth {
+    height: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    align-content: center;
+    background-color: #179BD7;
+    flex-direction: column;
+    justify-content: center;
+    /* overflow: clip; */
+  }
+
+.insta {
+    background: #179BD7;
+
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 30px;
+    width: 26px;
+    background-repeat: no-repeat;
+    background-image: url(../assets/Vector\ \(copy\ 1\).png);
+}
+
+.fb {
+    background: #179BD7;
+
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 30px;
+    width: 26px;
+    background-repeat: no-repeat;
+    background-image: url(../assets/Vector\ \(1\).png);
+}
+
+.twitter {
+    background: #179BD7;
+
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 30px;
+    width: 26px;
+    background-repeat: no-repeat;
+    background-image: url(../assets/Vector\ \(2\).png);
+}
+
+.pinterest {
+    background: #179BD7;
+
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 30px;
+    width: 26px;
+    background-repeat: no-repeat;
+    background-image: url(../assets/Vector\ \(3\).png);
+}
+
+.mediaLinks {
+    height: 100px;
+    width: 200px;
+    display: flex;
+    align-content: space-evenly;
+    justify-content: space-evenly;
+}
+
+.contact {
+    align-self: end;
+}

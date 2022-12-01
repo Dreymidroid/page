@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 98vw;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 20px;
+}
+
+.ul {
+    align-self: end;
+    align-content: center;
+    display: flex;
+    list-style: none;
+    margin-right: 20px;
+}
+
+.li {
+    margin-right: 35px;
+}
+
+a{
+    color: #179BD7;
+    text-decoration: none;
+}
+
+.logo {
+    color: #179BD7;
+}
