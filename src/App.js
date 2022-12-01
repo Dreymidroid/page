@@ -1,6 +1,6 @@
 import "./App.css";
-import MainPage from "./Components/MainPage";
-import NavbarSect from "./Components/Navbar";
+import MainPage from "./Component/MainPage";
+import NavbarSect from "./Component/Navbar";
 
 
 function App() {
